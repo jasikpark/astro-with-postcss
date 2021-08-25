@@ -1,2 +1,3 @@
-# astro-with-postcss
-Created with CodeSandbox
+# Astro with PostCSS
+
+https://codesandbox.io/s/github/jonathantneal/astro-with-postcss
